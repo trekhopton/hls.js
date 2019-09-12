@@ -33,6 +33,7 @@ const RemuxerTrackIdConfig = {
   text: 4
 };
 
+// Test comment to test if I can commit a change.
 class TSDemuxer {
   constructor (observer, remuxer, config, typeSupported) {
     this.observer = observer;
